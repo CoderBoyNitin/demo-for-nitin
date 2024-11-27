@@ -1,4 +1,4 @@
 # demo-for-nitin
-This is my firdt Git Repository
+This is my first Git Repository
 <br>
 Author- Nitin kumar
